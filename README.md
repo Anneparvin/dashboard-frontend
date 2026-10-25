@@ -4,7 +4,7 @@ A role-based project submission and review platform built as a task assessment.
 
 ## 🔗 Live Links
 
-- **Live Site:** https://dashboard-backend-repo.vercel.app/
+- **Live Site:** https://dashboard-backend-repo-ndpp-iota.vercel.app
 - **Backend API:** https://<your-api>.onrender.com
 - **Github Repo:** https://github.com/Anneparvin/dashboard-frontend/
 
