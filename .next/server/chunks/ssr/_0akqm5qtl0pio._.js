@@ -1,0 +1,3 @@
+(()=>{"use strict";module.exports=[60350,a=>{var b=a.i(87924),c=a.i(72131),d=a.i(50944),e=a.i(40865),f=a.i(19817),g=a.i(47033);a.s(["default",0,function(){let{user:a,isLoading:h}=(0,f.F)(),i=(0,d.useRouter)();return(0,c.useEffect)(()=>{h||i.replace(a?(0,g.f)(a.role):"/login")},[h,a,i]),(0,b.jsx)(e.f,{})}])},40865,a=>{var b=a.i(87924),c=a.i(2918),c=c;a.s(["f",0,function(){return(0,b.jsx)("div",{className:"flex min-h-screen items-center justify-center",children:(0,b.jsx)(c.f,{className:"h-6 w-6 animate-spin text-muted-foreground"})})}],40865)},47033,a=>{a.s(["f",0,function(a){return"STUDENT"===a?"/student":"/mentor"}])}]})();
+
+//# sourceMappingURL=_0akqm5qtl0pio._.js.map

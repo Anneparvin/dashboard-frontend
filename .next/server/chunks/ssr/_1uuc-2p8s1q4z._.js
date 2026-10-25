@@ -1,0 +1,3 @@
+(()=>{"use strict";module.exports=[40865,a=>{var b=a.i(87924),c=a.i(2918),c=c;a.s(["f",0,function(){return(0,b.jsx)("div",{className:"flex min-h-screen items-center justify-center",children:(0,b.jsx)(c.f,{className:"h-6 w-6 animate-spin text-muted-foreground"})})}],40865)},47033,a=>{a.s(["f",0,function(a){return"STUDENT"===a?"/student":"/mentor"}])}]})();
+
+//# sourceMappingURL=_1uuc-2p8s1q4z._.js.map

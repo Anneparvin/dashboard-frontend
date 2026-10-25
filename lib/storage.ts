@@ -1,5 +1,5 @@
 // lib/storage.ts
-import { User } from "types";
+import { User } from "@/types";
 
 const TOKEN_KEY = "dashboard_token";
 const USER_KEY = "dashboard_user";

@@ -5,7 +5,7 @@ import { ReactNode, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { FullPageLoader } from "../../components/shared/full-page-loader";
 import { useAuth } from "../../context/auth-context";
-import { getHomePath } from "/lib/auth";
+import { getHomePath } from "@/lib/auth";
 
 export default function AuthLayout({ children }: { children: ReactNode }) {
   const { user, isLoading } = useAuth();
